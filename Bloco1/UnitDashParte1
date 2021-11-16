@@ -1,0 +1,23 @@
+Unix&Bash Parte 1
+Comandos Principais
+mkdir Diretório : Cria um novo diretório
+cd              : Change Directory
+cd .            : Diretório Atual
+cd ~            : muda para diretório inicial
+cd ..           : Retorna ao diretório "superior"
+ls              : Lista os arquivos em um diretório
+ls -a           : lista todos os diretórios
+cat             : Mostra o conteúdo de um arquivo
+cp Arquivo1 ArquivoCopia : Copia um arquivo
+mv Arquivo1 Diretorio : Move ou Renomeia o arquivo
+rm Arquivo      : Deleta um arquivo
+rmdir           : Apaga diretório vazio
+rmdir -i        : Apaga diretório com arquivos e outros diretórios  
+pwd             : Mostra caminho do diretório atual
+head arquivo    : Mostra as 10 primeiras linhas do arquivo
+tail arquivo    : Mostra as 10 últimas linhas do arquivo
+grep 'palavra chave' Arquivo : Procura palavras no arquivo
+wc Arquivo      : Conta número de linhas, palavras e caracteres do arquivo
+man comando     : Abre o Manual sobre o comando
+whatis comando  : Fornece uma definição para o comando
+apropos palavra chave: corresponde a comandos com palavras chaves no manual
