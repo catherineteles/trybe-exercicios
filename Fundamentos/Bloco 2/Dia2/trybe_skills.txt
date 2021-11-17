@@ -1,0 +1,7 @@
+O que vou aprender na Trybe:
+
+- Unit
+
+- Bash
+
+- Git
