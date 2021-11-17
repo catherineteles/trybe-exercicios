@@ -5,3 +5,7 @@ O que vou aprender na Trybe:
 - Bash
 
 - Git
+
+- HTML
+
+- CSS
