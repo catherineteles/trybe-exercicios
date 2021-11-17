@@ -2,21 +2,21 @@
 
 Os exercícios são separados em 4 Módulos:
 
-### Fundamentos :hourglass_flowing_sand:
+### 1. Fundamentos de Desenvolvimento Web :hourglass_flowing_sand:
 
-#### Bloco 1 - Unit&Bash 
+####  :pushpin: Bloco 1 - Unit&Bash 
 
-#### Bloco 2 - Git, GitHub e Internet 
+####  :pushpin: Bloco 2 - Git, GitHub e Internet 
 
-#### Bloco 3 - Introdução à HTML e CSS 
+####  :pushpin: Bloco 3 - Introdução à HTML e CSS 
 
-#### Bloco 4 - Introdução à JavaScript e Lógica de Programação
+####  :pushpin: Bloco 4 - Introdução à JavaScript e Lógica de Programação
 
-### Desenvolvimento Front-end :hourglass_flowing_sand:
+### 2. Desenvolvimento Front-end :hourglass_flowing_sand:
 
-### Desenvolvimento Back-end :hourglass_flowing_sand:
+### 3. Desenvolvimento Back-end :hourglass_flowing_sand:
 
-### Ciência da Computação :hourglass_flowing_sand:
+### 4. Ciência da Computação :hourglass_flowing_sand:
 
 Todos os exercícios estão numerados por blocos e dia de trabalho.
 
@@ -24,10 +24,10 @@ Todos os exercícios estão numerados por blocos e dia de trabalho.
 
 All exercices are divided in 4 modules
 
-### Fundamentals of Web Development
+### 1. Fundamentals of Web Development
 
-### Front-end
+### 2. Front-end
 
-### Back-end
+### 3. Back-end
 
-### Computer Science
+### 4. Computer Science
