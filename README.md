@@ -2,21 +2,21 @@
 
 Os exercícios são separados em 4 Módulos:
 
-### Fundamentos
+### Fundamentos :hourglass_flowing_sand:
 
-#### Bloco 1 - Unit&Bash
+#### Bloco 1 - Unit&Bash 
 
-#### Bloco 2 - Git, GitHub e Internet
+#### Bloco 2 - Git, GitHub e Internet 
 
-#### Bloco 3 - Introdução à HTML e CSS
+#### Bloco 3 - Introdução à HTML e CSS 
 
 #### Bloco 4 - Introdução à JavaScript e Lógica de Programação
 
-### Desenvolvimento Front-end
+### Desenvolvimento Front-end :hourglass_flowing_sand:
 
-### Desenvolvimento Back-end
+### Desenvolvimento Back-end :hourglass_flowing_sand:
 
-### Ciência da Computação
+### Ciência da Computação :hourglass_flowing_sand:
 
 Todos os exercícios estão numerados por blocos e dia de trabalho.
 
