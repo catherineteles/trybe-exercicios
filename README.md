@@ -4,7 +4,7 @@ Os exercícios são separados em 4 Módulos:
 
 ### 1. Fundamentos de Desenvolvimento Web :hourglass_flowing_sand:
 
-####  :pushpin: Bloco 1 - Unit&Bash 
+####  :pushpin: Bloco 1 - Unix & Bash 
 
 ####  :pushpin: Bloco 2 - Git, GitHub e Internet 
 
