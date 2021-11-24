@@ -37,6 +37,6 @@ li em {
     font-weight: 700;
 }
 
-li.list:not(:nth-child(n + 4)){
+.list li:not(:nth-child(n + 4)){
 background-color: blue;
 }
