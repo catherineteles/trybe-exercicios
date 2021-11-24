@@ -1,0 +1,31 @@
+div:hover {
+    border-style: solid;
+    border-color: black;
+}
+
+.primaria {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.secundaria {
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.complementar {
+    color: green;
+    font-size: large;
+    font-style: italic;
+
+}
+
+.escura {
+    color:darkred;
+    font-style: initial;
+}
+
+.clara {
+    color: lightcoral;
+    font-style: italic;
+}
