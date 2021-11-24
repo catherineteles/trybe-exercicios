@@ -1,0 +1,47 @@
+li {
+    list-style-type: none;
+}
+h1 {
+    text-align: center;
+
+  }
+
+
+  .first {
+    background-color: rgb(235, 200, 84);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 200px;
+    position:absolute;
+    left:550px;
+  }
+
+  .second {
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    position: absolute;
+    top: 130px;
+    left: 348px;
+
+  }
+
+  .third {
+    background-color: rgb(170, 142, 106);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    position:absolute;
+    top: 130px;
+    left: 648px;
+  }
+.text {
+    text-align: center;
+    position: absolute;
+    top: 180px;
+    left:422px;
+}
