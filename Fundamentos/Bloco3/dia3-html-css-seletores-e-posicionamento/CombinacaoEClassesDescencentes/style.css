@@ -1,0 +1,42 @@
+.ordered {
+    background-color: yellow;
+}
+
+ol li:nth-child(even){
+    color: green;
+}
+
+ol li:nth-child(odd){
+    text-transform:uppercase;
+}
+
+h1, h2 {
+color: red;
+}
+
+h1 em {
+    font-size: 40px;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+h2 em {
+    font-size: 40px;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+li {
+    font-size: 40px;
+
+}
+
+li em {
+    font-weight: 700;
+}
+
+li.list:not(:nth-child(n + 4)){
+background-color: blue;
+}
