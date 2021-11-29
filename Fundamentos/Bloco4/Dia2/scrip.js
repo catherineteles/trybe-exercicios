@@ -13,3 +13,7 @@ for (let x of numbers){
 }
 
 console.log(sum);
+
+//Calcule e imprima a média aritmétrica dos números
+
+console.log(sum / numbers.length);
