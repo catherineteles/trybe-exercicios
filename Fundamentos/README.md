@@ -6,9 +6,9 @@ Os exercícios foram separados em 4 Blocos
 
 ####  :pushpin: Bloco 1 - Unix & Bash :heavy_check_mark:
 
-####  :pushpin: Bloco 2 - Git, GitHub e Internet :hourglass_flowing_sand:
+####  :pushpin: Bloco 2 - Git, GitHub e Internet :heavy_check_mark:
 
-####  :pushpin: Bloco 3 - Introdução à HTML e CSS :hourglass_flowing_sand:
+####  :pushpin: Bloco 3 - Introdução à HTML e CSS :heavy_check_mark:
 
 ####  :pushpin: Bloco 4 - Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
 
