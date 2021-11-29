@@ -61,4 +61,12 @@ for (var index = 0; index < numbers.length; index++){
 }
 console.log(menorNumero);
 
-//
+//Utilizando for , crie um array que vá de 1 até 25 e imprima o resultado
+
+let novoArray = [];
+
+for (let numero = 1; numero <= 25; numero++){
+    novoArray.push(numero);
+}
+
+console.log(novoArray);
