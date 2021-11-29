@@ -27,4 +27,11 @@ if(media > 20){
 else{
     console.log("Média menor que 20");
 }
-
+//Utilizando for descubra qual o maior número do array
+let higherNumber = numbers[0]
+for (var index = 1; index < numbers.length; index++){
+    if (higherNumber < numbers[index]){
+        higherNumber = numbers[index]
+    }
+}
+console.log(higherNumber);
