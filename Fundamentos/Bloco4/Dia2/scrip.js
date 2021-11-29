@@ -16,4 +16,15 @@ console.log(sum);
 
 //Calcule e imprima a média aritmétrica dos números
 
-console.log(sum / numbers.length);
+let media = sum/numbers.length;
+console.log(media);
+
+//Se media>20 imprimir "Média maior que 20"
+
+if(media > 20){
+    console.log("Média maior que 20");
+}
+else{
+    console.log("Média menor que 20");
+}
+
