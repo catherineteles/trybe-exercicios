@@ -70,3 +70,10 @@ for (let numero = 1; numero <= 25; numero++){
 }
 
 console.log(novoArray);
+
+//Utilizando o array criado no exercício anterior imprima o resultado da divisão de cada um dos elementos por 2.
+
+for (var index = 0; index < novoArray.length; index++){
+    var divisaoPorDois = novoArray[index]/2;
+    console.log(divisaoPorDois);
+}
