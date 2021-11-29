@@ -35,3 +35,19 @@ for (var index = 1; index < numbers.length; index++){
     }
 }
 console.log(higherNumber);
+
+//Descubra quantos valores ímpares existem no array e imprima o resultado. Caso não exista nenhum, imprima a mensagem: "nenhum valor ímpar encontrado"
+
+let numerosImpares = 0
+for (var index = 0; index < numbers.length; index++){
+    if (numbers[index] % 2 != 0){
+        numerosImpares++;
+    }
+}
+
+if (numerosImpares != 0){
+    console.log(numerosImpares);
+}
+else{
+    console.log("Não Existem Números Ímpares");
+}
