@@ -27,6 +27,7 @@ for (let index = 1; index <= n; index++){
 
 //Agora inverta o lado do triângulo
 
+/*
 let n = 5;
 let colune = n;
 let linha = "";
@@ -43,3 +44,6 @@ for (let l = 1; l <= n; l++) {
         linha = "";
         colune -= 1;
 }
+*/
+//Depois, faça uma pirâmide com n asteriscos de base:
+
