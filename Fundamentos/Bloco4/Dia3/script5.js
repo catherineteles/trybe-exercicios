@@ -7,13 +7,19 @@ let direita = meio;
 let linha = "";
 
 for (let l = 0; l < meio; l++) {
-    for (let c = 0; c < n; c++){
+    for (let c = 1; c <= n; c++){
+    if (direita != n){
         if (c == esquerda || c == direita){
             linha = linha + "*";
         } else {
             linha = linha + " ";
         }
+    }  
+        if (direita == n){
+            linha = linha + "*"
+        }
     }
+    
     console.log(linha);
         linha = "";
         direita += 1;
