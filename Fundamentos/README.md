@@ -12,6 +12,8 @@ Os exercícios foram separados em 4 Blocos
 
 ####  :pushpin: Bloco 4 - Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
 
+####  :pushpin: Bloco 5 - Java Script: DOM, Eventos e Web Storage :hourglass_flowing_sand:
+
 Todos os exercícios estão numerados por blocos e dia de trabalho.
 
 ## :us_outlying_islands: Trybe Course 2021 - 2022
