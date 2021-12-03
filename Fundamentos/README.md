@@ -1,6 +1,8 @@
 ## :brazil: Essa pasta sera utilizada durante o curso da Trybe de 2021 - 2022
 
-Os exercícios foram separados em 4 Blocos
+Os exercícios foram separados em 9 Blocos
+
+Para melhorar minha organização foram feitas diferentes branchs para cada dia de exercício a partir do Bloco3
 
 ### 1. Fundamentos de Desenvolvimento Web :hourglass_flowing_sand:
 
@@ -10,13 +12,24 @@ Os exercícios foram separados em 4 Blocos
 
 ####  :pushpin: Bloco 3 - Introdução à HTML e CSS :heavy_check_mark:
 
-####  :pushpin: Bloco 4 - Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
+####  :pushpin: Bloco 4 - Introdução à JavaScript e Lógica de Programação :heavy_check_mark:
+
+####  :pushpin: Bloco 5 - JavaScript: DOM, Eventos e Web Storage :hourglass_flowing_sand:
+
+####  :pushpin: Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo :hourglass_flowing_sand:
+
+####  :pushpin: Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários :hourglass_flowing_sand:
+
+####  :pushpin: Bloco 8 - Higher Order Functions do JavaScript ES6 :hourglass_flowing_sand:
+
+####  :pushpin: Bloco 9 - JavaScript e testes Assíncronos :hourglass_flowing_sand:
+
 
 Todos os exercícios estão numerados por blocos e dia de trabalho.
 
 ## :us_outlying_islands: Trybe Course 2021 - 2022
 
-All exercices are divided in 4 Blocks
+All exercices are divided in 9 Blocks
 
 ### 1. Fundamentals of Web Development
 
@@ -27,3 +40,15 @@ All exercices are divided in 4 Blocks
 ####  :pushpin: Bloco 3 - Introduction to HTML & CSS 
 
 ####  :pushpin: Bloco 4 - Introduction to JavaScript and Programming Logic
+
+####  :pushpin: Bloco 5 - JavaScript: DOM, Events and Web Storage
+
+####  :pushpin: Bloco 6 - HTML and CSS: Forms, Flexbox and Responsive 
+
+####  :pushpin: Bloco 7 - Introduction to JavaScript ES6 and Unit Testing
+
+####  :pushpin: Bloco 8 - Higher Order Functions of JavaScript ES6
+
+####  :pushpin: Bloco 9 - JavaScript and Asynchronous JavaScript
+
+
