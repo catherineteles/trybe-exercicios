@@ -13,4 +13,4 @@ function maiorIndice(array){
     return maiorIndex;
 }
 
-console.log(maiorIndice(arrayTeste))
+console.log(maiorIndice(arrayTeste));
