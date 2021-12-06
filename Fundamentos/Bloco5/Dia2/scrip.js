@@ -32,3 +32,12 @@ filhoPrimeiro.id = "filhoDoPrimeiroFilhoDoFilho";
 filhoDoFilho.appendChild(filhoPrimeiro);
 //A partir desse filho criado, acesse terceiroFilho 
 filhoPrimeiro.parentElement.parentElement.nextElementSibling
+
+//Parte III
+//Remova todos os elementos filhos de paiDoPai exceto pai , elementoOndeVoceEsta e primeiroFilhoDoFilho .
+for (let index = 0; index < pai.childNodes.length; index++){
+    let child = pai.childNodes[index]
+    if (child.id !== 'elementoOndeVoceEsta'){
+        child.removeChild();
+    }
+}
