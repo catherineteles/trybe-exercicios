@@ -14,3 +14,21 @@ document.getElementById('elementoOndeVoceEsta').nextSibling;
 document.getElementById('elementoOndeVoceEsta').nextElementSibling;
 //Agora acesse o terceiroFilho a partir de pai .
 document.getElementById('pai').lastElementChild.previousElementSibling;
+//Parte II
+//Crie um irmão para elementoOndeVoceEsta .
+let irmaoElementoOndeVoceEsta = document.createElement('section');
+irmaoElementoOndeVoceEsta.id = "irmaoElementoOndeVoceEsta";
+let pai = document.getElementById('pai');
+pai.appendChild(irmaoElementoOndeVoceEsta);
+//Crie um filho para elementoOndeVoceEsta .
+let elemento = document.getElementById("elementoOndeVoceEsta");
+let filho = document.createElement('section');
+filho.id = "filhoElementoOndeVoceEsta";
+elemento.appendChild(filho);
+//Crie um filho para primeiroFilhoDoFilho .
+let filhoDoFilho = document.getElementById("primeiroFilhoDoFilho");
+let filhoPrimeiro = document.createElement('section');
+filhoPrimeiro.id = "filhoDoPrimeiroFilhoDoFilho";
+filhoDoFilho.appendChild(filhoPrimeiro);
+//A partir desse filho criado, acesse terceiroFilho 
+filhoPrimeiro.parentElement.parentElement.nextElementSibling
