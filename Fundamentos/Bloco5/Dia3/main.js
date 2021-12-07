@@ -25,13 +25,34 @@ thirdLi.addEventListener('click', changeTech);
 
 // 3. Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento
 // com a classe 'tech';
+function inputChange(event){
+  const techElement = document.querySelector('.tech');
+  techElement.innerText = event.target.value;
+}
+input.addEventListener('input', inputChange);
+
 
 // 4. Crie uma função que, ao clicar duas vezes em 'Meu top 3 do Spotrybefy', ele
 // redirecione para alguma página;
+function doubleClick(event){
+  //https://www.w3schools.com/jsref/obj_location.asp and https://stackoverflow.com/questions/4562012/make-a-link-open-on-double-click
+  window.location.replace('https://catherineteles.github.io/');
+}
+
+myWebpage.addEventListener('dblclick', doubleClick);
 // 4.1. Que tal redirecionar para seu portifólio?
 
 // 5. Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere
 // a cor do mesmo;
+function mouseOver(event){
+  event.target.style.color = 'blue';  
+}
+function mouseOut (event){
+  event.target.style.color = 'white'
+}
+
+myWebpage.addEventListener('mouseover', mouseOver);
+myWebpage.addEventListener('mouseout', mouseOut);
 
 // Segue abaixo um exemplo do uso de event.target:
 
