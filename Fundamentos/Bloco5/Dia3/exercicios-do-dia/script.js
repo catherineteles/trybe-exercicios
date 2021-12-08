@@ -36,6 +36,31 @@ function createDaysOfTheWeek() {
 
   completarDias();
 
+  //Implemente uma função que receba como parâmetro a string "Feriados" e crie dinamicamente um botão com o nome "Feriados
+function createButton(buttonName){
+  let btn = document.createElement('button');
+  let buttonContainer = document.querySelector('.buttons-container');
+  btn.id = 'btn-holiday';
+  btn.innerHTML = buttonName;
+  buttonContainer.appendChild(btn);
   
+}
+
+createButton('Feriados');
+
+let btnHoliday = document.querySelector('#btn-holiday');
+
+//Implemente uma função que adicione ao botão "Feriados" um evento de "click" que muda a cor de fundo dos dias que possuem a classe "holiday" .
+
+btnHoliday.addEventListener('click', function(){
+  let holidayList = document.querySelectorAll('.holiday');
+  for (let i = 0; i < holidayList.length; i += 1){
+    if (holidayList[i].style.backgroundColor === 'red'){
+      holidayList[i].style.backgroundColor = 'rgb(238,238,238)';
+    } else {
+      holidayList[i].style.backgroundColor = 'red';
+    }
+    
+  }
   
-  
+})  
