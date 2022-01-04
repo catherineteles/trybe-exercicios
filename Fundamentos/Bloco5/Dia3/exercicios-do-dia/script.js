@@ -72,3 +72,19 @@ btnHoliday.addEventListener('click', function(){
 //Implemente uma função que receba como parâmetro a string "Sexta-feira" e crie dinamicamente um botão com o nome "Sexta-feira".
 
 createButton('Sexta-feira');
+//Implemente uma função que adicione ao botão "Sexta-feira" um evento de "click" que modifica o texto exibido nos dias que são Sexta-feira.
+
+let btnFriday = document.querySelector('#btn-friday');
+
+btnFriday.addEventListener('click', function(){
+  let fridayList = document.querySelectorAll('.friday');
+  for (let i = 0; i < fridayList.length; i += 1){
+    if (fridayList[i].style.color === 'blue'){
+      fridayList[i].style.backgroundColor = 'rgb(238,238,238)';
+    } else {
+      fridayList[i].style.backgroundColor = 'blue';
+    }
+    
+  }
+  
+})
