@@ -4,5 +4,6 @@ let statesList = ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "M
 for(let index = 0; index < statesList.length; index +=1){
     let states = document.createElement('option');
     states.innerText = statesList[index];
+    states.value = statesList[index];
     stateSelect.appendChild(states);
 }
