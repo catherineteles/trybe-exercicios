@@ -67,8 +67,12 @@ body {
   }
 
   @media (min-width: 500px) {
+      .cards {
+          display:flex;
+          flex-direction: column;
+      }
       .card:nth-of-type(1){
-          display: block;
+          display: block
       }
       
   }
