@@ -16,7 +16,7 @@ Para melhorar minha organização foram feitas diferentes branchs para cada dia 
 
 ####  :pushpin: Bloco 5 - JavaScript: DOM, Eventos e Web Storage :heavy_check_mark:
 
-####  :pushpin: Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo :hourglass_flowing_sand:
+####  :pushpin: Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
 
 ####  :pushpin: Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários :hourglass_flowing_sand:
 
