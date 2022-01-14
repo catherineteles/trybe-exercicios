@@ -19,6 +19,9 @@
       if(!num1||!num2){
         throw new Error('Você precisa inserir dois números');
       }
+      if(isNaN(num1)||isNaN(num2)){
+        throw new Error('Favor inserir só números');
+      }
         
     }
     function sum() {
