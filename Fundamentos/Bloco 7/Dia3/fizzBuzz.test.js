@@ -18,11 +18,11 @@ describe('testing myFizzBuzz', () => {
         expect(myFizzBuzz(90)).toEqual('fizzbuzz');
     });
     it('Numero nao divisivel por 3 e 5 retorna o numero', () => {
-        expect(myFizzBuzz(17)).toEqual(17);
-        expect(myFizzBuzz(11)).toEqual(11);
-        expect(myFizzBuzz(37)).toEqual(37);
+        expect(myFizzBuzz(17)).toBe(17);
+        expect(myFizzBuzz(11)).toBe(11);
+        expect(myFizzBuzz(37)).toBe(37);
     });
     it('Not number added returns false', () => {
-        expect(myFizzBuzz('17')).toEqual(false);
+        expect(myFizzBuzz('17')).toBe(false);
     });
 });
