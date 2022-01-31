@@ -1,0 +1,15 @@
+{
+  "name": "dia-1-js-asincrono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrip.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
