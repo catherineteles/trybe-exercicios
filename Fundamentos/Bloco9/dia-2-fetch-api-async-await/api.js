@@ -15,7 +15,7 @@ async function getCrypto() {
       const response = await fetch('https://api.coincap.io/v2/assets');
       const data = await response.json();
       const item = data.data.map(extractInfo);
-      item.forEach(append);
+      item.filter((element, index) => index < 10).forEach(append);
     } catch (error) {
       console.log(error);
     }
