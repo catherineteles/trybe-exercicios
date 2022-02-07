@@ -18,11 +18,11 @@ Para melhorar minha organização foram feitas diferentes branchs para cada dia 
 
 ####  :pushpin: Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
 
-####  :pushpin: Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários :hourglass_flowing_sand:
+####  :pushpin: Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários :heavy_check_mark:
 
-####  :pushpin: Bloco 8 - Higher Order Functions do JavaScript ES6 :hourglass_flowing_sand:
+####  :pushpin: Bloco 8 - Higher Order Functions do JavaScript ES6 :heavy_check_mark:
 
-####  :pushpin: Bloco 9 - JavaScript e testes Assíncronos :hourglass_flowing_sand:
+####  :pushpin: Bloco 9 - JavaScript e testes Assíncronos :heavy_check_mark:
 
 
 Todos os exercícios estão numerados por blocos e dia de trabalho.
